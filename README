@@ -28,7 +28,7 @@ ucloud 目录:
    生成 libufilecsdk.a
 
 #查阅演示程序
-2. cd ../demo
+2. cd ../demo 
    make
 
 #使用 SDK
